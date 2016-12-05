@@ -167,8 +167,4 @@ public class Rectangle {
      public String toString() {
          return this.width + " x " + this.height;
      }
-     
 }
-
-
-
